@@ -1,4 +1,4 @@
-# 🧠 A Neurocomputational Model of Nicotine Addiction
+# A Neurocomputational Model of Nicotine Addiction
 
 A computational neuroscience project that models the development of **nicotine addiction** using **reinforcement learning, nonlinear dynamical systems, dopamine signaling, and neural action-selection mechanisms**.
 
