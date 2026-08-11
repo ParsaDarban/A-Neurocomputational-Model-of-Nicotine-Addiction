@@ -19,7 +19,7 @@ The implementation was developed independently because the original implementati
 
 The proposed model consists of several interacting components:
 
-
+![Model](image.png)
 
 The model integrates an **Action Selection module** based on the cortex–basal ganglia–thalamus loop with a **Dopamine Signaling module** responsible for reward evaluation and prediction error.
 
